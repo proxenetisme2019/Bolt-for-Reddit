@@ -37,7 +37,7 @@ BY FMWK aka. Sys
                     </div>
                     <div class="mdl-textfield mdl-js-textfield">
                     <input class="mdl-textfield__input" type="text" name="keyword" id="keyword">
-                    <label class="mdl-textfield__label" for="user">Keyword(s), seperate with commas</label>
+                    <label class="mdl-textfield__label" for="user">Keyword</label>
                     </div>
                     <button style="float:right" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent">Go</button>
                 </form>

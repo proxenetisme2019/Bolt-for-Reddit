@@ -9,7 +9,7 @@ BY SYS
 
 <html lang="en">
   <head>
-      <title>Bolt - Home</title>
+      <title>Bolt - Results</title>
       @include('layouts.header')
   </head>
   <body>
